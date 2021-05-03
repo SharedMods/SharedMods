@@ -10,7 +10,80 @@
   	{
   		"name": "dnd5e",
   		"type": "system"
-  	}
+  	},
+    {
+      "name": "Actually Private Rolls"
+    },
+    {
+      "name": "Better NPC Sheet 5e"
+    },
+    {
+      "name": "Better Rolls for 5e"
+    },
+    {
+      "name": "Character Actions List dnd5e"
+    },
+    {
+      "name": "Compendium Folders"
+    },
+    {
+      "name": "D&D 5e OGL Character Sheet"
+    },
+    {
+      "name": "Dice So Nice!"
+    },
+    {
+      "name": "Dynamic effects using Active Effects"
+    },
+    {
+      "name": "Easy Target"
+    },
+    {
+      "name": "Fog Manager"
+    },
+    {
+      "name": "Let Me Roll That For You!"
+    },
+    {
+      "name": "libWrapper"
+    },
+    {
+      "name": "Math.js"
+    },
+    {
+      "name": "Midi QOL"
+    },
+    {
+      "name": "Monster Blocks"
+    },
+    {
+      "name": "Multilevel Tokens"
+    },
+    {
+      "name": "Pings"
+    },
+    {
+      "name": "Plutonium",
+      "manifest": "https://get.5e.tools/plutonium/module.json"
+    }
+    {
+      "name": "Simple Dice Roller"
+    },
+    {
+      "name": "socketlib"
+    },
+    {
+      "name": "Tidy5e Sheet"
+    },
+    {
+      "name": "Token Action HUD"
+    },
+    {
+      "name": "Turn Marker"
+    },
+    {
+      "name": "Zoom/Pan Options"
+    },
   ],
   "url": "https://github.com/SharedMods/SharedMods",
   "manifest": "https://raw.githubusercontent.com/SharedMods/SharedMods/master/SharedMods.json",
