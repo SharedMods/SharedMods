@@ -1,16 +1,25 @@
-### Hi there 👋
-
-<!--
-**SharedMods/SharedMods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mod List:
+Actually Private Rolls
+Better NPC Sheet 5e
+Better Rolls for 5e
+Character Actions List dnd5e
+Compendium Folders
+D&D 5e OGL Character Sheet
+Dice So Nice!
+Dynamic effects using Active Effects
+Easy Target
+Fog Manager
+Let Me Roll That For You!
+libWrapper
+Math.js
+Midi QOL
+Monster Blocks
+Multilevel Tokens
+Pings
+Plutonium
+Simple Dice Roller
+socketlib
+Tidy5e Sheet
+Token Action HUD
+Turn Marker
+Zoom/Pan Options
