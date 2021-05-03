@@ -3,8 +3,9 @@
   "title": "Shared Modules",
   "description": "A list of dependencies which are the list of mods we use.",
   "author": "",
-  "version": "1.0.0",
+  "version": "0.1",
   "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "0.7.9",
   "dependencies" : [
   	{
   		"name": "dnd5e",
