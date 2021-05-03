@@ -13,6 +13,6 @@
   	}
   ],
   "url": "https://github.com/SharedMods/SharedMods",
-  "manifest": "https://raw.githubusercontent.com/SharedMods/SharedMods/main/SharedMods.json",
-  "download": "https://github.com/SharedMods/SharedMods/archive/main.zip"
+  "manifest": "https://raw.githubusercontent.com/SharedMods/SharedMods/master/SharedMods.json",
+  "download": "https://github.com/SharedMods/SharedMods/archive/refs/heads/master.zip"
 }
