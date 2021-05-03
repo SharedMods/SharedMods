@@ -11,4 +11,6 @@
   		"type": "system"
   	}
   ]
+  "url": "https://github.com/SharedMods/SharedMods",
+  "manifest": "https://raw.githubusercontent.com/SharedMods/SharedMods/main/SharedMods.json"
 }
