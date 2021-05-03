@@ -1,0 +1,14 @@
+{
+  "name": "SharedMods",
+  "title": "Shared Modules",
+  "description": "A list of dependencies which are the list of mods we use.",
+  "author": "",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "dependencies" : [
+  	{
+  		"name": "dnd5e",
+  		"type": "system"
+  	}
+  ]
+}
