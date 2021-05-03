@@ -80,10 +80,6 @@
       "manifest": "https://gitlab.com/foundry-azzurite/pings/-/jobs/artifacts/master/raw/dist/pings/module.json?job=build"
     },
     {
-      "name": "Plutonium",
-      "manifest": "https://get.5e.tools/plutonium/module.json"
-    },
-    {
       "name": "Simple Dice Roller",
       "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-simple-dice-roller/master/module.json"
     },
