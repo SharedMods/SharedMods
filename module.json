@@ -7,10 +7,10 @@
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.7.9",
   "dependencies" : [
-  	{
-  		"name": "dnd5e",
-  		"type": "system"
-  	},
+    {
+  	  "name": "dnd5e",
+  	  "type": "system"
+    },
     {
       "name": "Actually Private Rolls"
     },
@@ -65,7 +65,7 @@
     {
       "name": "Plutonium",
       "manifest": "https://get.5e.tools/plutonium/module.json"
-    }
+    },
     {
       "name": "Simple Dice Roller"
     },
