@@ -34,7 +34,7 @@ Multilevel Tokens
 
 Pings
 
-Plutonium
+Plutonium (Not included in module.json)
 
 Simple Dice Roller
 
