@@ -8,10 +8,6 @@
   "compatibleCoreVersion": "0.7.9",
   "dependencies" : [
     {
-      "name": "dnd5e",
-      "type": "system"
-    },
-    {
       "name": "Actually Private Rolls",
       "manifest": "https://raw.githubusercontent.com/syl3r86/Actually-Private-Rolls/v0.2/module.json"
     },
