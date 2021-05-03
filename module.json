@@ -8,8 +8,8 @@
   "compatibleCoreVersion": "0.7.9",
   "dependencies" : [
     {
-  	  "name": "dnd5e",
-  	  "type": "system"
+    "name": "dnd5e",
+    "type": "system"
     },
     {
       "name": "Actually Private Rolls",
