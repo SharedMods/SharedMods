@@ -13,5 +13,5 @@
   ],
   "url": "https://github.com/SharedMods/SharedMods",
   "manifest": "https://raw.githubusercontent.com/SharedMods/SharedMods/main/SharedMods.json",
-  "download": "https://github.com/SharedMods/SharedMods/blob/main/SharedMods-main.zip?raw=true"
+  "download": "https://github.com/SharedMods/SharedMods/raw/main/SharedMods-main.zip"
 }
