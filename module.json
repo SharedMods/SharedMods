@@ -12,77 +12,100 @@
   	  "type": "system"
     },
     {
-      "name": "Actually Private Rolls"
+      "name": "Actually Private Rolls",
+      "manifest": "https://raw.githubusercontent.com/syl3r86/Actually-Private-Rolls/v0.2/module.json"
     },
     {
-      "name": "Better NPC Sheet 5e"
+      "name": "Better NPC Sheet 5e",
+      "manifest": "https://raw.githubusercontent.com/syl3r86/BetterNPCSheet5e/master/module.json"
     },
     {
-      "name": "Better Rolls for 5e"
+      "name": "Better Rolls for 5e",
+      "manifest": "https://raw.githubusercontent.com/RedReign/FoundryVTT-BetterRolls5e/master/betterrolls5e/module.json"
     },
     {
-      "name": "Character Actions List dnd5e"
+      "name": "Character Actions List dnd5e",
+      "manifest": "https://github.com/ElfFriend-DnD/foundryvtt-dnd5eCharacterActions/releases/latest/download/module.json"
     },
     {
-      "name": "Compendium Folders"
+      "name": "Compendium Folders",
+      "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
     },
     {
-      "name": "D&D 5e OGL Character Sheet"
+      "name": "D&D 5e OGL Character Sheet",
+      "manifest": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases/latest/download/module.json"
     },
     {
-      "name": "Dice So Nice!"
+      "name": "Dice So Nice!",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
     },
     {
-      "name": "Dynamic effects using Active Effects"
+      "name": "Dynamic effects using Active Effects",
+      "manifest": "https://gitlab.com/tposney/dae/raw/master/package/module.json"
     },
     {
-      "name": "Easy Target"
+      "name": "Easy Target",
+      "manifest": "https://bitbucket.org/Fyorl/easy-target/raw/master/module.json"
     },
     {
-      "name": "Fog Manager"
+      "name": "Fog Manager",
+      "manifest": "https://gitlab.com/tiwato/fogmanager/raw/master/module.json"
     },
     {
-      "name": "Let Me Roll That For You!"
+      "name": "Let Me Roll That For You!",
+      "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/releases/latest/download/module.json"
     },
     {
-      "name": "libWrapper"
+      "name": "libWrapper",
+      "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json"
     },
     {
-      "name": "Math.js"
+      "name": "Math.js",
+      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/mathjs-lib/master/module.json"
     },
     {
-      "name": "Midi QOL"
+      "name": "Midi QOL",
+      "manifest": "https://gitlab.com/tposney/midi-qol/raw/master/package/module.json"
     },
     {
-      "name": "Monster Blocks"
+      "name": "Monster Blocks",
+      "manifest": "https://github.com/zeel01/MonsterBlocks/releases/latest/download/module.json"
     },
     {
-      "name": "Multilevel Tokens"
+      "name": "Multilevel Tokens",
+      "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json"
     },
     {
-      "name": "Pings"
+      "name": "Pings",
+      "manifest": "https://gitlab.com/foundry-azzurite/pings/-/jobs/artifacts/master/raw/dist/pings/module.json?job=build"
     },
     {
       "name": "Plutonium",
       "manifest": "https://get.5e.tools/plutonium/module.json"
     },
     {
-      "name": "Simple Dice Roller"
+      "name": "Simple Dice Roller",
+      "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-simple-dice-roller/master/module.json"
     },
     {
-      "name": "socketlib"
+      "name": "socketlib",
+      "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-socketlib/master/module.json"
     },
     {
-      "name": "Tidy5e Sheet"
+      "name": "Tidy5e Sheet",
+      "manifest": "https://github.com/sdenec/tidy5e-sheet/releases/latest/download/module.json"
     },
     {
-      "name": "Token Action HUD"
+      "name": "Token Action HUD",
+      "manifest": "https://github.com/espositos/fvtt-tokenactionhud/raw/master/module.json"
     },
     {
-      "name": "Turn Marker"
+      "name": "Turn Marker",
+      "manifest": "https://raw.githubusercontent.com/kckaiwei/TurnMarker-alt/v2.7.3/src/module.json"
     },
     {
-      "name": "Zoom/Pan Options"
+      "name": "Zoom/Pan Options",
+      "manifest": "https://github.com/itamarcu/ZoomPanOptions/releases/latest/download/module.json"
     }
   ],
   "url": "https://github.com/SharedMods/SharedMods",
