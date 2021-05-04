@@ -33,7 +33,7 @@
     },
     {
       "name": "Dice So Nice!",
-      "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
+      "manifest": "https://raw.githubusercontent.com/SharedMods/Dice-Rolling/main/foundryvtt-dice-so-nice/module/module.json"
     },
     {
       "name": "Dynamic effects using Active Effects",
