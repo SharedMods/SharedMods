@@ -46,4 +46,6 @@ Token Action HUD
 
 Turn Marker
 
+Universal Battlemap Importer
+
 Zoom/Pan Options
