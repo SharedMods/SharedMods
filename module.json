@@ -80,6 +80,10 @@
       "manifest": "https://gitlab.com/foundry-azzurite/pings/-/jobs/artifacts/master/raw/dist/pings/module.json?job=build"
     },
     {
+      "name": "Simple Calendar",
+      "manifest": "https://github.com/vigoren/foundryvtt-simple-calendar/releases/download/v1.2.47/module.json"
+    },
+    {
       "name": "Simple Dice Roller",
       "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-simple-dice-roller/master/module.json"
     },
