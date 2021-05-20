@@ -36,6 +36,8 @@ Pings
 
 Plutonium (Not included in module.json)
 
+Simple Calendar
+
 Simple Dice Roller
 
 socketlib
