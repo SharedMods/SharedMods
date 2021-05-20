@@ -100,6 +100,10 @@
       "manifest": "https://raw.githubusercontent.com/kckaiwei/TurnMarker-alt/v2.7.3/src/module.json"
     },
     {
+      "name": "Universal Battlemap Importer",
+      "manifest": "https://raw.githubusercontent.com/moo-man/FVTT-DD-Import/1.1.1/module.json"
+    },
+    {
       "name": "Zoom/Pan Options",
       "manifest": "https://github.com/itamarcu/ZoomPanOptions/releases/latest/download/module.json"
     }
