@@ -13,31 +13,31 @@
     },
     {
       "name": "Better NPC Sheet 5e",
-      "manifest": "https://raw.githubusercontent.com/syl3r86/BetterNPCSheet5e/master/module.json"
+      "manifest": "https://raw.githubusercontent.com/syl3r86/BetterNPCSheet5e/v0.10.1/module.json"
     },
     {
       "name": "Better Rolls for 5e",
-      "manifest": "https://raw.githubusercontent.com/RedReign/FoundryVTT-BetterRolls5e/master/betterrolls5e/module.json"
+      "manifest": "https://github.com/RedReign/FoundryVTT-BetterRolls5e/releases/download/v1.5.3/module.json"
     },
     {
       "name": "Character Actions List dnd5e",
-      "manifest": "https://github.com/ElfFriend-DnD/foundryvtt-dnd5eCharacterActions/releases/latest/download/module.json"
+      "manifest": "https://github.com/ElfFriend-DnD/foundryvtt-dnd5eCharacterActions/releases/download/v4.1.0/module.json"
     },
     {
       "name": "Combat Utility Belt",
-      "manifest": "https://github.com/death-save/combat-utility-belt/releases/latest/download/module.json"
+      "manifest": "https://github.com/death-save/combat-utility-belt/releases/download/1.6.0/module.json"
     },
     {
       "name": "Compendium Folders",
-      "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
+      "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/082-update/module.json"
     },
     {
       "name": "D&D 5e OGL Character Sheet",
-      "manifest": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases/latest/download/module.json"
+      "manifest": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases/download/v0.11.0/module.json"
     },
     {
       "name": "Dice So Nice!",
-      "manifest": "https://raw.githubusercontent.com/SharedMods/Dice-Rolling/main/foundryvtt-dice-so-nice/module/module.json"
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/3.4.2/module/module.json"
     },
     {
       "name": "Dynamic effects using Active Effects",
@@ -49,15 +49,15 @@
     },
     {
       "name": "Fog Manager",
-      "manifest": "https://gitlab.com/tiwato/fogmanager/raw/master/module.json"
+      "manifest": "https://gitlab.com/tiwato/fogmanager/-/raw/v1.0.0/module.json"
     },
     {
       "name": "Let Me Roll That For You!",
-      "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/releases/latest/download/module.json"
+      "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/releases/download/1.16/module.json"
     },
     {
       "name": "libWrapper",
-      "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json"
+      "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/download/v1.7.2.0/module.json"
     },
     {
       "name": "Math.js",
@@ -69,11 +69,11 @@
     },
     {
       "name": "Monster Blocks",
-      "manifest": "https://github.com/zeel01/MonsterBlocks/releases/latest/download/module.json"
+      "manifest": "https://github.com/zeel01/MonsterBlocks/releases/download/v3.0.1/module.json"
     },
     {
       "name": "Multilevel Tokens",
-      "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json"
+      "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/v1.5.1/module.json"
     },
     {
       "name": "Pings",
@@ -81,7 +81,7 @@
     },
     {
       "name": "Simple Calendar",
-      "manifest": "https://github.com/vigoren/foundryvtt-simple-calendar/releases/download/v1.2.47/module.json"
+      "manifest": "https://github.com/vigoren/foundryvtt-simple-calendar/releases/download/v1.2.95/module.json"
     },
     {
       "name": "Simple Dice Roller",
@@ -89,7 +89,7 @@
     },
     {
       "name": "socketlib",
-      "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-socketlib/master/module.json"
+      "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-socketlib/v1.0.7/module.json"
     },
     {
       "name": "Tidy5e Sheet",
@@ -101,15 +101,15 @@
     },
     {
       "name": "Turn Marker",
-      "manifest": "https://raw.githubusercontent.com/kckaiwei/TurnMarker-alt/v2.7.3/src/module.json"
+      "manifest": "https://raw.githubusercontent.com/kckaiwei/TurnMarker-alt/v2.8.1/src/module.json"
     },
     {
       "name": "Universal Battlemap Importer",
-      "manifest": "https://raw.githubusercontent.com/moo-man/FVTT-DD-Import/1.1.1/module.json"
+      "manifest": "https://raw.githubusercontent.com/moo-man/FVTT-DD-Import/master/module.json"
     },
     {
       "name": "Zoom/Pan Options",
-      "manifest": "https://github.com/itamarcu/ZoomPanOptions/releases/latest/download/module.json"
+      "manifest": "https://github.com/itamarcu/ZoomPanOptions/releases/download/1.6.1/module.json"
     }
   ],
   "url": "https://github.com/SharedMods/SharedMods",
